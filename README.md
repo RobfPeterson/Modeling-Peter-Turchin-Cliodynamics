@@ -1,1 +1,1 @@
-
+This is a series of python scripts which implement the equations listed in Peter Turchin's book, [Historical Dynamics. ](https://press.princeton.edu/books/hardcover/9780691116693/historical-dynamics?srsltid=AfmBOoqyVO8Vs3Z82fO3rJsXJ_lys1zlzVSJY2pLlfoqzWcD5WsK52bb)
